@@ -1,0 +1,9 @@
+# A Bootstrap theme
+# =================
+
+# project files
+bower_components/
+node_modules/
+
+# WebStorm files
+.idea/

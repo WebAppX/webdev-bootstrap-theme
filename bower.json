@@ -1,0 +1,29 @@
+{
+  "name": "webdev-bootstrap-theme",
+  "version": "0.0.1",
+  "homepage": "https://github.com/WebAppX",
+  "authors": [
+    "Jaime Chavarriaga"
+  ],
+  "description": "A Bootstrap Theme",
+  "keywords": [
+    "bootstrap",
+    "theme"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "pages",
+    "index.html"
+  ],
+  "main": [
+    "dist/css/webdev-bootstrap-theme.css",
+    "dist/css/webdev-bootstrap-theme.min.css"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.2.0"
+  }
+}
