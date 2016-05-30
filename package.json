@@ -1,7 +1,8 @@
 {
   "name": "webdev-bootstrap-theme",
   "version": "0.0.1",
-  "homepage": "https://github.com/WebAppX",
+  "homepage": "https://github.com/web-course",
+  "repository": "https://github.com/web-course/webdev-bootstrap-theme",
   "authors": [
     "Jaime Chavarriaga"
   ],
