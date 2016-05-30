@@ -19,8 +19,7 @@
     "index.html"
   ],
   "main": [
-    "dist/css/webdev-bootstrap-theme.css",
-    "dist/css/webdev-bootstrap-theme.min.css"
+    "dist/css/webdev-bootstrap-theme.css"
   ],
   "dependencies": {
     "bootstrap": "~3.3.6",
